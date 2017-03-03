@@ -3,7 +3,7 @@
 
 #include "math-toolkit.h"
 #include "primitives.h"
-#include "raytracing.h"
+#include "raytracing_thread.h"
 #include "idx_stack.h"
 
 #define MAX_REFLECTION_BOUNCES	3

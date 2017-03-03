@@ -5,7 +5,7 @@
 #include <pthread.h>
 
 #include "primitives.h"
-#include "raytracing.h"
+#include "raytracing_thread.h"
 
 #define OUT_FILENAME "out.ppm"
 
